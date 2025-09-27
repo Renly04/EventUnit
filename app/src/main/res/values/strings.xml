@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name" translatable="false">UniEvent</string>
+    <string name="app_name2" translatable="false">Đăng ký</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="app_name3" translatable="false">Tên người dùng</string>
+    <string name="app_name4" translatable="false">Mật khẩu</string>
+    <string name="app_name5" translatable="false">Đăng ký</string>
+    <string name="app_name6" translatable="false">Hoặc</string>
+    <string name="app_name7" translatable="false">Tiếp tục với Google</string>
+    <string name="app_name8" translatable="false">Tiếp tục với Apple</string>
+    <string name="app_name9" translatable="false">Đã có tài khoản? Đăng nhập</string>
+    <string name="app_name10" translatable="false">Bằng cách nhấn vào tiếp tục, bạn đã đồng ý với Điều khoản dịch vụ và Chính sách bảo mật của chúng tôi</string>
+    <string name="app_name11" translatable="false">Đăng nhập</string>
+    <string name="app_name12" translatable="false">Nhập email</string>
+    <string name="app_name13" translatable="false">Nhập mật khẩu</string>
+    <string name="app_name14" translatable="false">Đăng nhập</string>
+    <string name="app_name15" translatable="false">Quên mật khẩu?</string>
+    <string name="app_name16" translatable="false">Hoặc</string>
+    <string name="app_name17" translatable="false">Đăng nhập bằng Google</string>
+    <string name="app_name18" translatable="false">Đăng nhập bằng Apple</string>
+    <string name="app_name19" translatable="false">Chưa có tài khoản? Đăng ký</string>
+</resources>
